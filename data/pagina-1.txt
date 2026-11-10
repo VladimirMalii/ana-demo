@@ -1,0 +1,37 @@
+Document: Registru de nașteri, 1854
+Cotă: ANA, fond 211, inv. 3, dosar 107, fila 903
+Mod: transcriere automată, de verificat
+Tip document: registru de nașteri (acte de metrică, partea I – cei născuți)
+Limbă / scriere: română în alfabet chirilic (formular tipărit semiuncial, completat în cursivă)
+Lizibilitate: medium
+
+Transcriere automată generată cu un model AI. Este o ciornă: numele, datele și cifrele trebuie verificate de un arhivist pe imaginea originală. [?] = lectură nesigură, [ilizibil] = text necitit, [tăiat] = text tăiat la margine.
+
+## Transcriere diplomatică
+АКОНДИЧІЙ ДЕ МЕТРИКЪ ПЕ АНУЛЬ 185 | ПАРТѢ 1тѧя ПЕНТРУ ЧЕЙ НЪСКУЦЙ.
+Нумерул нъскупи-лорь. Партѣ бър-бътѣскъ. | Партѣ фъ-меяскъ, | Луна ши зіоа. Нащерѣ. | Ботезулъ. | Нуме-ле нъ-скупи-лорь. | Трѣпта пъскъторилорь, нумиле лорь ши Ататъ-лорь лорь, порекла ши де че леџе сжнть. | Трѣпта нашилорь, нумиле лорь ши а Ататълорь лорь ши порекла. | Чине аѹ съвършит тайна ботезулуй, | Искълитура мартурилор пентру акт, дакъ вор вои.
+21. | | Іюлие / 20 | 28. | Геѡрге | църанѹ дин Сло-/бозиѣ Лѹнка / Іѡан Георги попа / ши жѹпънеаса[?] соція / лѹи Евдохия Ѳео/дорова[?] амъндой / дин Леџѣ Пра/вославникъ — / Прѣѡтѹл Маноил Гонца / Пономар Зиновер[?] Мъреги[?] | Църанѹ дин Сло/бозиѣ Лѹнка / Георге Попа | Прѣѡтѹл Дикотор[?] Маноил / Гонца Кутъпоматор[?] / Зиновер[?] Мъреги[?] | 
+Сумарѹ[?] нъскѹцилор пе лѹна Іюлие Съвършит[?] парохія[?] / Прѣѡтѹл Маноил Гонца / Пономар Зиновер[?] Мъреги[?] / Пономар Георге Лукиан[?] | бърбътѣскъ: 1. фемеѣскъ: 4.
+ | 13. | Авгѹст / 3. | 12. | Елисаве/та | църанѹ дин сатѹл Ла/зъни[?] Андрей Але/ксандров ши жѹ/пънеаса[?] соція лѹи / Екатерина Георги/евна амъндой / дин леџѣ правосла/вникъ / Прѣѡтѹл Маноил Гонца / Пономар Зиновер[?] Мъреги[?] | Зиновиѧ[?] соція / лѹи Коцъски[?] / Дѣнистратор[?] / Маноил Коса[?] / Дин сатѹл Ла/зъни[?] | Прѣѡтѹл Маноил Гонца / Дикотор[?] Констан/тин[?] Зиновер[?] Мъ/реги[?] |
+
+## Transliterare (alfabet latin)
+ACONDICIII DE METRICĂ PE ANUL 185 | PARTEA 1-a PENTRU CEI NĂSCUȚI.
+Numerul născuți-lor. Partea băr-bătească. | Partea fă-meiască, | Luna și ziua. Naștere. | Botezul. | Nume-le nă-scuți-lor. | Treapta născătorilor, numele lor și a tatălor lor, porecla și de ce lege sânt. | Treapta nașilor, numele lor și a tatălor lor și porecla. | Cine au săvârșit taina botezului, | Iscălitura martorilor pentru act, dacă vor voi.
+21. | | Iulie / 20 | 28. | Gheorghe | țăranu din Slo-/bozia Lunca / Ioan Gheorghi Popa / și jupâneasa[?] soția / lui Evdochia Feo/dorova[?] amândoi / din Legea Pra/voslavnică — / Preotul Manoil Gonța / Ponomar Zinover[?] Măreghi[?] | Țăranu din Slo/bozia Lunca / Gheorghe Popa | Preotul Dicotor[?] Manoil / Gonța Cutăpomator[?] / Zinover[?] Măreghi[?] | 
+Sumaru[?] născuților pe luna Iulie Săvârșit[?] parohia[?] / Preotul Manoil Gonța / Ponomar Zinover[?] Măreghi[?] / Ponomar Gheorghe Luchian[?] | bărbătească: 1. femeiască: 4.
+ | 13. | August / 3. | 12. | Elisave/ta | țăranu din satul La/zăni[?] Andrei Ale/xandrov și ju/pâneasa[?] soția lui / Ecaterina Gheorghi/evna amândoi / din legea pravosla/vnică / Preotul Manoil Gonța / Ponomar Zinover[?] Măreghi[?] | Zinovia[?] soția / lui Coțăschi[?] / Deanistrator[?] / Manoil Cosa[?] / Din satul La/zăni[?] | Preotul Manoil Gonța / Dicotor Constan/tin[?] Zinover[?] Mă/reghi[?] |
+
+## Traducere / interpretare în română
+Acte de metrică pe anul 185[?] (cifra finală lipsește). Partea I – pentru cei născuți. Coloane: numărul născuților (partea bărbătească, partea femeiască); luna și ziua nașterii și a botezului; numele născuților; starea socială a părinților, numele lor și ale taților lor, porecla și de ce lege sunt; starea socială a nașilor, numele lor și ale taților lor și porecla; cine a săvârșit taina botezului; semnătura martorilor pentru act, dacă vor voi.
+
+1) Nr. 21 (băiat). Născut la 20 iulie, botezat la 28 iulie (stil vechi). Nume: Геѡрге (Gheorghe). Părinți: țăran din Slobozia Lunca, Іѡан Георги Попа (Ioan Gheorghi Popa) și jupâneasa[?] soția lui, Евдохия Ѳеодорова[?] (Evdochia Feodorova[?]), amândoi de lege ortodoxă (pravoslavnică); semnează Preotul Manoil Gonța și ponomarul Zinover[?] Măreghi[?]. Naș: țăran din Slobozia Lunca, Gheorghe Popa. Botezul săvârșit de: preotul Manoil Gonța, dascăl (dicotor[?]) Cutăpomator[?] Zinover[?] Măreghi[?].
+
+Sumarul[?] născuților pe luna iulie, săvârșit[?] în parohie[?]: preotul Manoil Gonța, ponomarul Zinover[?] Măreghi[?], ponomarul Gheorghe Luchian[?]. Partea bărbătească: 1; partea femeiască: 4.
+
+2) Nr. 13 (fată). Născută la 3 august, botezată la 12 august (stil vechi). Nume: Елисавета (Elisaveta, Elisabeta). Părinți: țăran din satul Lazăni[?], Андрей Александров (Andrei Alexandrov) și jupâneasa[?] soția lui, Екатерина Георгиевна (Ecaterina Gheorghievna), amândoi de lege ortodoxă; semnează preotul Manoil Gonța și ponomarul Zinover[?] Măreghi[?]. Nașă: Zinovia[?], soția lui Coțăschi[?] Deanistrator[?] Manoil Cosa[?], din satul Lazăni[?]. Botezul săvârșit de: preotul Manoil Gonța, dascăl (dicotor[?]) Constantin[?] Zinover[?] Măreghi[?].
+
+## Antet / filă / ștampile
+АКОНДИЧІЙ ДЕ МЕТРИКЪ ПЕ АНУЛЬ 185 ; ПАРТѢ 1тѧя ПЕНТРУ ЧЕЙ НЪСКУЦЙ. ; număr filă scris de mână: 903 (alături un număr vechi tăiat, cca „15”); pe marginea dreaptă „1359”
+
+## Note de verificat
+Spread complet: pagina stângă cu numere, date, nume, părinți și nași; pagina dreaptă cu rubrica „Чине аѹ съвършит тайна ботезулуй” și coloana de iscălituri (goală). Între cele două înregistrări se află sumarul lunii iulie: „Сумарѹ[?] нъскѹцилор пе лѹна Іюлие ...” cu semnăturile preotului Маноил Гонца și ale pononarilor, iar pe pagina dreaptă totalul „бърбътѣскъ: 1. фемеѣскъ: 4.” – pe această filă apare doar un băiat (nr. 21) pentru iulie; fetele din iulie sunt probabil pe filele anterioare, deci nu se poate verifica aici. Pe marginea stângă, în dreptul sumarului, o parafă/flourish „Ѕумар”; pe marginea dreaptă un cuvânt neclar („Зисѣ[?]”). Numărul 13 este scris în coloana fetelor (partea femeiască). Numele pononarului (Зиновер[?] Мъреги[?]) citit prin corelare între toate aparițiile; forma exactă trebuie verificată. Toponimele „Слобозиѣ Лѹнка” și „Лазъни[?]” și cuvintele „Дикотор[?]”, „Кутъпоматор[?]” din coloana preotului sunt citiri nesigure. Al doilea pononar din sumar: „Георге Лукиан[?]”. Anul tipărit „185” este incomplet (ultima cifră necompletată). Cerneala străbate prin hârtie (text în oglindă vizibil pe pagina dreaptă).

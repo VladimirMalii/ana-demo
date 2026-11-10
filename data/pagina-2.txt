@@ -1,0 +1,37 @@
+Document: Registru de nașteri, 1853
+Cotă: ANA, fond 211, inv. 3, dosar 103, fila 722
+Mod: transcriere automată, de verificat
+Tip document: registru de nașteri și botezuri (metrică), partea întâi
+Limbă / scriere: formular tipărit în rusă (ortografie pre-reformă); înscrieri în română cu alfabet chirilic, cursivă
+Lizibilitate: poor
+
+Transcriere automată generată cu un model AI. Este o ciornă: numele, datele și cifrele trebuie verificate de un arhivist pe imaginea originală. [?] = lectură nesigură, [ilizibil] = text necitit, [tăiat] = text tăiat la margine.
+
+## Transcriere diplomatică
+МЕТРИЧЕСКОЙ КНИГИ НА 185[5?] ГОДЪ. | ЧАСТЬ ПЕРВАЯ О РОДИВШИХСЯ.
+Счетъ родившихся: Мужеска пола | Женска пола | Мѣсяцъ и день: Рожденіе | Крещенія | Имена родившихся. | Званіе, имя, отечество и фамилія родителей и какого вѣроисповѣданія. | Званіе, имя, отечество и фамилія воспріемниковъ. | Кто совершалъ таинство крещенія. | Рукоприкладство свидѣтелей записи по желанію.
+5 | | Генуар[?] / 14 | 21 | Георгіе | Цѣран[?] лъкуиторіѹ дин / сатул Хынчешть[?] С/турдза[?] армянеск/ковал[?] ꙟнкредин[?]/чоатѣ[?] зиновія/Василиевна[?] амъ/дой[?] дрептъ[?] кре/дославничі[?] / Презвітерул[?] Козмов Тома Далиш[?] / Пономар Георгие[?] | Ковурлие[?] рът[?]/ [ilizibil]тор[?] Тихон[?]/ковач[?] | Иереѹл[?] Тихон[?] Чоара[?] ку Дия/кон[?] Зафир[?] Букшан, і поно/марю Георгие[?] Букшан / Зафир Симонов[?] Букшан |
+ | 3. | 16 | 22 | Екатери/на[?] | Цѣра[?] лъкуиторій дин / сатул Хынчешть Ди/митрие[?] Николае[?] Про/тасов[?] ꙟнкреднат[?] ко/соціа луй Елена[?] Сто/ѧновна[?] амъндой де/кредин[?] православни/чі / Презвітерул[?] Козмов Тома Далиш[?] | Цѣра[?] лъкуиторій / дин сатул Хынчеш/ть Нико[?] Болд[?]/[ilizibil] | Иереѹл[?] Тихон Чоара[?] ку / Диякон[?] Зафир[?] Букшан і по/номарю Георгие Букшан / Зафир Симонов[?] Букшан / Пономарю Георгие Букшан |
+6 | | 16 | 25 | Констан/дин[?] | Цѣран лъкуиторій дин са/тул Хынчешть Порда[?]/кн[?] Сокотюк[?] ꙟнкре/дин[?] соціа луй Ана[?]/на[?] Василиевна[?] амъ/дой дрептъ[?] кре/дославнічі / Презвітерул[?] Козмов Тома Далиш[?] | Цѣранул[?] лъкуиторій / дин сатул Хынчешть[?] / Константин[?]/ Одобашан[?] | Иереул[?] Тихон Чоара[?] / ку Диякон[?] Зафир[?] Букшан / і пономарю Зафир[?] Жира/ше[?] / Зафир Симонов[?] Букшан / Пономарю Зафир Жирегѣ[?] |
+
+## Transliterare (alfabet latin)
+MЕТРИЧЕСКОЙ КНИГИ НА 185[5?] ГОДЪ. | ЧАСТЬ ПЕРВАЯ О РОДИВШИХСЯ.
+Счетъ родившихся: Мужеска пола | Женска пола | Мѣсяцъ и день: Рожденіе | Крещенія | Имена родившихся. | Званіе, имя, отечество и фамилія родителей и какого вѣроисповѣданія. | Званіе, имя, отечество и фамилія воспріемниковъ. | Кто совершалъ таинство крещенія. | Рукоприкладство свидѣтелей записи по желанію.
+5 | | Genuar[?] / 14 | 21 | Gheorghie | Țăran[?] lăcuitoriu din / satul Hâncești[?] S/turdza[?] armenesc/coval[?] încredin[?]/cioatea[?] Zinovia/Vasilievna[?] amă/doi[?] dreaptă[?] cre/doslavnici[?] / Prezviterul[?] Cozmov Toma Daliș[?] / Ponomar Gheorghie[?] | Covurlie[?] răt[?]/ [ilizibil]tor[?] Tihon[?]/covaci[?] | Iereul[?] Tihon[?] Cioara[?] cu Dia/con[?] Zafir[?] Bucșan, i pono/mariu Gheorghie[?] Bucșan / Zafir Simonov[?] Bucșan |
+ | 3. | 16 | 22 | Ecateri/na[?] | Țăra[?] lăcuitorii din / satul Hâncești Di/mitrie[?] Nicolae[?] Pro/tasov[?] încrednat[?] co/soția lui Elena[?] Sto/ianovna[?] amândoi de/credin[?] pravoslavni/ci / Prezviterul[?] Cozmov Toma Daliș[?] | Țăra[?] lăcuitorii / din satul Hânceș/ti Nico[?] Bold[?]/[ilizibil] | Iereul[?] Tihon Cioara[?] cu / Diacon[?] Zafir[?] Bucșan i po/nomariu Gheorghie Bucșan / Zafir Simonov[?] Bucșan / Ponomariu Gheorghie Bucșan |
+6 | | 16 | 25 | Constan/din[?] | Țăran lăcuitorii din sa/tul Hâncești Porda[?]/cn[?] Socotiuc[?] încre/din[?] soția lui Ana[?]/na[?] Vasilievna[?] amă/doi dreaptă[?] cre/doslavnici / Prezviterul[?] Cozmov Toma Daliș[?] | Țăranul[?] lăcuitorii / din satul Hâncești[?] / Constantin[?]/ Odobașan[?] | Iereul[?] Tihon Cioara[?] / cu Diacon[?] Zafir[?] Bucșan / i ponomariu Zafir[?] Jira/șe[?] / Zafir Simonov[?] Bucșan / Ponomariu Zafir Jireghea[?] |
+
+## Traducere / interpretare în română
+Registrul metric pe anul 185[5?]. Partea întâi: despre cei născuți. (Antet tipărit în rusă: numărul celor născuți – parte bărbătească / parte femeiască; luna și ziua nașterii și botezului; numele celor născuți; starea, numele, patronimicul și numele de familie ale părinților și confesiunea; starea, numele, patronimicul și numele de familie ale nașilor; cine a săvârșit taina botezului; semnăturile martorilor înscrierii, la dorință.)
+
+1. Nr. 5 (băiat). Născut în ianuarie[?] 14, botezat 21 (stil vechi). Nume: Gheorghie (Gheorghe). Părinți: țăran[?] locuitor din satul Hâncești[?], S/turdza[?] armenesc/coval[?], [cu] încredin[?]cioatea[?] (soția?) Zinovia Vasilievna[?], amândoi[?] dreptcredincioși[?] ortodocși. Prezviterul[?] Cozmov Toma Daliș[?]; ponomar (paracliser) Gheorghie[?]. Naș: Covurlie[?] răt[?]/[ilizibil]tor[?] Tihon[?] covaci[?] (fierar?). Botezul săvârșit de preotul[?] Tihon[?] Cioara[?] cu diaconul[?] Zafir[?] Bucșan și paracliserul Gheorghie[?] Bucșan. Semnătura: Zafir Simonov[?] Bucșan.
+
+2. Nr. 3 (fată). Născută 16, botezată 22 (stil vechi). Nume: Ecaterina[?]. Părinți: țăran[?] locuitor din satul Hâncești, Dimitrie[?] Nicolae[?] Protasov[?], cu încrednat[?] soția lui Elena[?] Stoianovna[?], amândoi de credință[?] ortodoxă. Prezviterul[?] Cozmov Toma Daliș[?]. Naș: țăran[?] locuitor din satul Hâncești, Nico[?] Bold[?]/[ilizibil]. Botezul săvârșit de preotul[?] Tihon Cioara[?] cu diaconul[?] Zafir[?] Bucșan și paracliserul Gheorghie Bucșan. Semnături: Zafir Simonov[?] Bucșan; paracliserul Gheorghie Bucșan.
+
+3. Nr. 6 (băiat). Născut 16, botezat 25 (stil vechi). Nume: Constandin[?] (Constantin). Părinți: țăran locuitor din satul Hâncești, Porda[?]cn[?] Socotiuc[?], cu încredin[?] soția lui Ana[?]na[?] Vasilievna[?], amândoi dreptcredincioși[?] ortodocși. Prezviterul[?] Cozmov Toma Daliș[?]. Naș: țăranul[?] locuitor din satul Hâncești[?] Constantin[?] Odobașan[?]. Botezul săvârșit de preotul[?] Tihon Cioara[?] cu diaconul[?] Zafir[?] Bucșan și paracliserul Zafir[?] Jirașe[?]. Semnături: Zafir Simonov[?] Bucșan; paracliserul Zafir Jireghea[?].
+
+## Antet / filă / ștampile
+МЕТРИЧЕСКОЙ КНИГИ НА 185[5?] ГОДЪ. ЧАСТЬ ПЕРВАЯ О РОДИВШИХСЯ. ; nr. filă 722 (colț dreapta sus); 858 (margine dreapta)
+
+## Note de verificat
+Scris cursiv românesc în chirilică foarte greu lizibil; aproape toate numele sunt lecturi aproximative și trebuie verificate de arhivist. Anul: cifra adăugată de mână după „185” pare „5”. Numele preotului (Тихон Чоара[?]), diaconului (Зафир Симонов Букшан) și ale semnatarului „Козмов Тома Далиш[?]” au fost citite prin corelare între cele trei înscrieri; pe ultima înscriere pononarul pare altul (Зафир Жирегѣ[?]) decât în primele două (Георгие Букшан). Coloana „Рукоприкладство свидѣтелей” este goală. Pe marginea dreaptă, la mijloc, un cuvânt tăiat („[ilizibil]шаль[?]”) și cifra 858; numărul filei 722 în colțul dreapta sus. Numerotarea: băieți 5 și 6, fată 3.

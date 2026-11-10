@@ -1,0 +1,67 @@
+/* Streamlit chrome the archive does not need to see */
+#MainMenu, footer, [data-testid="stDecoration"], [data-testid="stStatusWidget"] {display: none !important;}
+.block-container {padding-top: 2.2rem; max-width: 1400px;}
+
+/* Header */
+.ana-hero {border-bottom: 1px solid #e2d8c6; padding: 0.2rem 0 1.1rem; margin-bottom: 1.2rem;}
+.ana-eyebrow {font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase; color: #8a3324;
+  font-weight: 600;}
+.ana-title {font-family: 'Spectral', Georgia, serif; font-size: 2.3rem; font-weight: 600; line-height: 1.15;
+  color: #2a2420; margin: 0.25rem 0 0.35rem;}
+.ana-subtitle {color: #5f554b; font-size: 1.02rem; max-width: 52rem;}
+.ana-steps {display: flex; flex-wrap: wrap; gap: 0.6rem 1.4rem; margin-top: 0.9rem; color: #4a4038;
+  font-size: 0.9rem;}
+.ana-steps span b {display: inline-flex; width: 1.45rem; height: 1.45rem; border-radius: 50%; background: #8a3324;
+  color: #fff; font-size: 0.78rem; align-items: center; justify-content: center; margin-right: 0.4rem;}
+.ana-note {border-left: 3px solid #8a3324; background: #f4ede1; padding: 0.6rem 0.9rem; border-radius: 0 6px 6px 0;
+  color: #4a4038; font-size: 0.9rem; margin: 0.2rem 0 1rem;}
+.ana-login {max-width: 26rem; margin: 6vh auto 0; text-align: center;}
+.ana-login .ana-title {font-size: 1.9rem;}
+.ana-footer {margin-top: 2.5rem; padding-top: 0.8rem; border-top: 1px solid #e2d8c6; color: #8a8076;
+  font-size: 0.8rem;}
+
+/* Reading view */
+.rd {font-family: 'Noto Sans', 'Segoe UI', 'Segoe UI Historic', Arial, sans-serif; font-size: 1.02rem;
+  line-height: 1.65; color: #2a2420;}
+.rd h4 {margin: 1.2rem 0 0.5rem; font-size: 1.05rem; color: #8a3324; letter-spacing: 0.01em;}
+.rd p {margin: 0.4rem 0 0.8rem; max-width: 78ch;}
+.rd-entry {border: 1px solid #e2d8c6; border-radius: 10px; background: #fffdf9; padding: 0.75rem 1rem;
+  margin: 0.7rem 0; box-shadow: 0 1px 2px rgba(42, 36, 32, 0.05);}
+.rd-entry-title {font-weight: 700; color: #8a3324; font-size: 1.05rem; margin-bottom: 0.35rem;}
+.rd-fields {display: grid; grid-template-columns: minmax(7rem, 15rem) 1fr; gap: 0.3rem 1.1rem; margin: 0;}
+.rd-fields dt {color: #6b6258; font-size: 0.86rem; line-height: 1.5; padding-top: 0.12rem;}
+.rd-fields dd {margin: 0;}
+@media (max-width: 700px) {.rd-fields {grid-template-columns: 1fr;} .rd-fields dt {padding-top: 0.4rem;}}
+.rd-unc {color: #b45309; font-weight: 700; font-size: 0.72em; margin-left: 1px; cursor: help;}
+.rd-ill {background: #f8d0d0; color: #9b1c1c; border-radius: 4px; padding: 0 5px; font-size: 0.78em;
+  cursor: help;}
+.rd-cut {background: #e7e3dc; color: #5f554b; border-radius: 4px; padding: 0 5px; font-size: 0.78em;
+  cursor: help;}
+
+/* Transcription */
+.tx-legend {font-size: 0.85rem; color: #5f554b; margin-bottom: 0.5rem;}
+.tx-doc {font-family: 'Noto Sans', 'Segoe UI', 'Segoe UI Historic', Arial, sans-serif; font-size: 0.95rem;
+  line-height: 1.5;}
+.tx-doc h4 {margin: 1rem 0 0.4rem; font-size: 1rem; color: #8a3324;}
+.tx-doc p {margin: 0.15rem 0;}
+.tx-tablewrap {overflow-x: auto; margin: 0.4rem 0 0.8rem;}
+.tx-table {border-collapse: collapse; font-size: 0.88rem; width: 100%; background: #fffdf9;}
+.tx-table th, .tx-table td {border: 1px solid #e2d8c6; padding: 4px 6px; vertical-align: top; text-align: left;}
+.tx-table th {background: #f1eadd; font-weight: 600;}
+.tx-table tr:nth-child(even) td {background: #faf6ef;}
+.tx-doc .unc {background: #ffe2b8; color: #8a4b00; border-radius: 3px; padding: 0 2px;}
+.tx-doc .ill {background: #f8d0d0; color: #9b1c1c; border-radius: 3px; padding: 0 2px;}
+.tx-doc .cut {background: #e5e5e5; color: #555; border-radius: 3px; padding: 0 2px;}
+.tx-cards {display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 0.8rem;}
+.tx-card {border: 1px solid #e2d8c6; border-radius: 10px; padding: 0.7rem 0.9rem; background: #fffdf9;
+  box-shadow: 0 1px 2px rgba(42, 36, 32, 0.05);}
+.tx-card-title {font-weight: 600; margin-bottom: 0.35rem; display: flex; justify-content: space-between;
+  gap: 0.5rem;}
+.tx-card dl {display: grid; grid-template-columns: max-content 1fr; gap: 0.15rem 0.6rem; margin: 0;}
+.tx-card dt {color: #6b6258; font-size: 0.82rem;}
+.tx-card dd {margin: 0; font-size: 0.9rem;}
+.tx-badge {font-size: 0.75rem; border-radius: 10px; padding: 1px 8px; white-space: nowrap; height: fit-content;}
+.tx-badge.ok {background: #d9f2dd; color: #1d6b2c;}
+.tx-badge.mid {background: #fff1c2; color: #7a5a00;}
+.tx-badge.low {background: #f8d0d0; color: #9b1c1c;}
+.tx-part {font-size: 0.78rem; color: #8a8076;}

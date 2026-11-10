@@ -1,0 +1,57 @@
+Document: Registru de cununii, 1834
+Cotă: ANA, fond 211, inv. 3, dosar 311
+Mod: transcriere automată, de verificat
+Tip document: registru metric (sfârșitul părții de nașteri și începutul părții a doua – cununați)
+Limbă / scriere: română în chirilică, cursivă (titlu tipărit în semiuncială)
+Lizibilitate: poor
+
+Transcriere automată generată cu un model AI. Este o ciornă: numele, datele și cifrele trebuie verificate de un arhivist pe imaginea originală. [?] = lectură nesigură, [ilizibil] = text necitit, [tăiat] = text tăiat la margine.
+
+## Transcriere diplomatică
+[Pagina stângă – formular de nașteri, capete de coloană tipărite, estompate:]
+[ilizibil] | [ilizibil] | [ilizibil] | Де коѧ сѫ родит[?] | [ilizibil] | Чине аѹ фост воспріемници[?]
+|||Ꙟ[?] а[?] ... пѹ[?] нѹмеле[?] ... / а ... сѫ[?] ... ботезѹ[?] / лаѹ[?] ... [ilizibil] / пр[?] ... [ilizibil] ... / Василе[?] ... [ilizibil]||
+|||ка ... аѹ[?] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... пономарѹ[?] ... / ... [ilizibil] ...||
+[Pagina dreaptă:]
+130 [corectat din 128]
+Партѣ а доѹа пентрѹ чеи че сау кѹнѹнат.
+Н | Кѫнд ши чине а нѹме сау кѹнѹнат. | Чине аѹ фѣкут кѹнѹніа.
+| лѹна Ꙗнѹаріе[?] |
+1 | ка доѹъзечи ши патрѹ зиле[?] / ... мѣщанинѹ[?] дин ѡрашѹл[?] Ки-/шинеѹ[?] Дмитраке[?] ... / ...ковичь[?] Хотин[?] Кѹра[?] / ... Александра[?] Ѳеодоров[?] / на ... Ка[?] ... Кѫнд[?] / сѫ[?] ... ... [ilizibil] / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... съвършит[?] ... Кишинеѹ[?] ... / Александра[?] ... ... / ... ... ... / а ... [ilizibil] / пономарѹ[?] ... [ilizibil] / ... [ilizibil] | ... [ilizibil] ... / ... дин ѡрашѹл[?] Кишинеѹ[?] / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / пономар[?] ...
+| лѹна Фев[?]... |
+2 | ла доѹъзечи[?] ши ... зиле[?] / ... дин ... [ilizibil] / ... [ilizibil] ... / ... Хотин[?] ... [ilizibil] / ... [ilizibil] ... / ... Анастасіа[?] ... / ... дин ... [ilizibil] / ... [ilizibil] ... / ... [ilizibil] ... | ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / пономарѹ[?] [tăiat]
+
+## Transliterare (alfabet latin)
+[Pagina stângă – formular de nașteri, capete de coloană tipărite, estompate:]
+[ilizibil] | [ilizibil] | [ilizibil] | De cine s-a născut[?] [orig.: De coia să rodit[?]] | [ilizibil] | Cine au fost vospriemnici[?]
+|||În[?] a[?] ... pu[?] numele[?] ... / a ... s-a[?] ... botezu[?] / lau[?] ... [ilizibil] / pr[?] ... [ilizibil] ... / Vasile[?] ... [ilizibil]||
+|||ca ... au[?] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... ponomaru[?] ... / ... [ilizibil] ...||
+[Pagina dreaptă:]
+130 [corectat din 128]
+Partea a doua pentru cei ce s-au cununat.
+N | Când și cine anume s-au cununat. | Cine au făcut cununia.
+| luna Ianuarie[?] |
+1 | la douăzeci și patru zile[?] / ... meșteaninu[?] din orașul[?] Chi-/șineu[?] Dmitrache[?] ... / ...covici[?] Hotin[?] Cura[?] / ... Alexandra[?] Feodorov[?] / na ... Ca[?] ... Când[?] / s-a[?] ... ... [ilizibil] / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... săvârșit[?] ... Chișineu[?] ... / Alexandra[?] ... ... / ... ... ... / a ... [ilizibil] / ponomaru[?] ... [ilizibil] / ... [ilizibil] | ... [ilizibil] ... / ... din orașul[?] Chișineu[?] / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ponomar[?] ...
+| luna Fev[ruarie][?]... |
+2 | la douăzeci[?] și ... zile[?] / ... din ... [ilizibil] / ... [ilizibil] ... / ... Hotin[?] ... [ilizibil] / ... [ilizibil] ... / ... Anastasia[?] ... / ... din ... [ilizibil] / ... [ilizibil] ... / ... [ilizibil] ... | ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ... [ilizibil] ... / ponomaru[?] [tăiat]
+
+## Traducere / interpretare în română
+Pagina stângă (sfârșitul părții de nașteri, formular cu capete de coloană tipărite, în mare parte ilizibile): coloane [ilizibil], [ilizibil], [ilizibil], „De cine s-a născut”[?], [ilizibil], „Cine au fost nașii”[?]. Două înregistrări aproape ilizibile; se disting fragmentar: „în[?] ... pe[?] numele[?] ... s-a[?] ... botezul[?] ... Vasile[?] ...” și, în a doua, mențiunea unui „ponomar[?]” (paracliser). 
+
+Pagina dreaptă: fila 130 (corectat din 128).
+Partea a doua, pentru cei care s-au cununat.
+Coloane: Nr. | Când și cine anume s-au cununat | Cine a săvârșit cununia.
+
+Luna ianuarie[?]:
+1. În ziua de douăzeci și patru[?] ... târgoveț (meșcean)[?] din orașul Chișinău[?], Dmitrache[?] ... ...covici[?], Hotin[?], Cura[?] ... cu Alexandra[?] Feodorov[?] ... [restul ilizibil] ... săvârșit[?] ... Chișinău[?] ... Alexandra[?] ... ponomarul[?] ... [ilizibil]. Cununia săvârșită de: ... [ilizibil] ... din orașul Chișinău[?] ... [ilizibil] ... ponomar[?] ...
+
+Luna februarie[?]:
+2. În ziua de douăzeci[?] și ... ... din ... [ilizibil] ... Hotin[?] ... [ilizibil] ... Anastasia[?] ... din ... [ilizibil]. Cununia săvârșită de: ... [ilizibil] ... ponomarul[?] [tăiat].
+
+Datele sunt după calendarul iulian (stil vechi).
+
+## Antet / filă / ștampile
+Партѣ а доѹа пентрѹ чеи че сау кѹнѹнат. ; coloane: Н | Кѫнд ши чине а нѹме сау кѹнѹнат. | Чине аѹ фѣкут кѹнѹніа. ; foliu 130 (128 tăiat)
+
+## Note de verificat
+Pagina stângă aparține formularului de nașteri (capete de coloană tipărite, estompate) și conține două blocuri de text cursiv care par a fi continuarea unei intrări de botez de pe pagina anterioară (preot/pomenire „Василе[?]” și un pономар[?]); nu au fost incluse în records, fiind din secțiunea de nașteri. Pagina dreaptă: titlul „Партѣ а доѹа пентрѹ чеи че сау кѹнѹнат”, foliu 130 scris peste/lângă 128 tăiat. Scrisul este o cursivă românească chirilică foarte greu de citit; majoritatea cuvintelor nu au putut fi descifrate cu siguranță – numele mirilor (Дмитраке[?], Александра Ѳеодоров[?], Анастасіа[?]), orașul (Кишинеѹ[?]), lunile (Ꙗнѹаріе[?], Фев[?]) trebuie verificate de arhivist. În mijlocul paginii drepte apare un semn „// да[?]” fără legătură clară. Intrarea 2 este probabil continuată pe pagina următoare. Câteva găuri/pete în hârtie lângă marginea interioară, jos.
