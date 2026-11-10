@@ -47,6 +47,10 @@ header.top {padding: 1.6rem 0 1rem;}
 .panel {display: none;}
 .panel.on {display: block;}
 .downloads {display: flex; flex-wrap: wrap; gap: 0.7rem; margin: 0.6rem 0 1rem;}
+a.btn {display: inline-block; text-decoration: none;}
+.live-box {display: flex; gap: 1rem; align-items: center; justify-content: space-between; flex-wrap: wrap;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 0.9rem 1.1rem;
+  margin: 1.2rem 0 0.4rem; box-shadow: 0 1px 3px rgba(42,36,32,.06);}
 .downloads a {text-decoration: none;}
 .reveal {opacity: 0; transform: translateY(6px); animation: reveal .45s ease forwards;}
 @keyframes reveal {to {opacity: 1; transform: none;}}
